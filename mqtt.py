@@ -12,3 +12,7 @@ while True:
     client.publish("TEMPERATURE", randNumber)
     print("Just published " + str(randNumber) + " to topic TEMPERATURE")
     time.sleep(1)
+
+
+
+#mqqt example
